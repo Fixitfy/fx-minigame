@@ -1,7 +1,6 @@
-```
 # FX-Minigame
 RedM Bar Minigame
-
+```
 # insatallation
 
 - `ensure fx-minigame` in the top of your resources.cfg 
